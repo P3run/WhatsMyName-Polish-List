@@ -1,0 +1,1 @@
+# WhatsMyName-Polish-list
