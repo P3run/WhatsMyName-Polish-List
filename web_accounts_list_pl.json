@@ -749,20 +749,6 @@
       "valid": true
     },
     {
-      "name": "ipon.pl",
-      "check_uri": "https://www.ipon.pl/randki/profile/{account}",
-      "account_existence_code": "200",
-      "account_existence_string": "Ostatnia aktywność",
-      "account_missing_string": "Użytkownik wydaje się nie istnieć",
-      "account_missing_code": "404",
-      "known_accounts": [
-        "fittrys",
-        "pepone04"
-      ],
-      "category": "dating",
-      "valid": false
-    },
-    {
       "name": "Szeroki Kadr",
       "check_uri": "https://www.szerokikadr.pl/profil,{account}",
       "account_existence_code": "200",
@@ -847,20 +833,6 @@
       "valid": true
     },
     {
-      "name": "samosia.pl",
-      "check_uri": "http://www.samosia.pl/uzytkownik/{account}",
-      "account_existence_code": "200",
-      "account_existence_string": "Krótko o mnie",
-      "account_missing_string": "Najnowsze pytania",
-      "account_missing_code": "200",
-      "known_accounts": [
-        "janek",
-        "test"
-      ],
-      "category": "social",
-      "valid": true
-    },
-    {
       "name": "ulub.pl",
       "check_uri": "http://ulub.pl/profil/{account}",
       "account_existence_code": "200",
@@ -904,20 +876,6 @@
       ],
       "category": "XXXPORNXXX",
       "valid": true
-    },
-    {
-      "name": "polki.com",
-      "check_uri": "https://polki.com/profile/{account}",
-      "account_existence_code": "200",
-      "account_existence_string": "Profil podstawowy",
-      "account_missing_string": "Profil został usunięty, nie istnieje, lub jest niedostępny.",
-      "account_missing_code": "200",
-      "known_accounts": [
-        "Michasia33",
-        "Gomez"
-      ],
-      "category": "dating",
-      "valid": false
     },
     {
       "name": "megamodels.pl",
